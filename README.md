@@ -1,26 +1,6 @@
-# cagar-budaya
+# Cagar Budaya Indonesia
+> Aplikasi sederhana untuk menampilkan peta dan data cagar budaya indonesia.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+### Build using
+- [Vue JS](https://vuejs.org/)
+- [Tailwind CSS](http://tailwindcss.com)
